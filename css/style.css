@@ -1,0 +1,80 @@
+body {
+  background-color: #f4fcd9;
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+  text-decoration: none;
+  color: #019267;
+  font-size: 30px;
+  font-family: monospace;
+}
+h3 {
+  font-family: cursive;
+  text-decoration: overline;
+  color: rgb(9, 107, 74);
+  text-align: center;
+}
+ol {
+  color: blueviolet;
+  font-style: italic;
+}
+#click {
+  color: purple;
+  padding-bottom: 50px;
+}
+#myself {
+  text-align: center;
+  position: relative;
+}
+ol {
+  text-align: center;
+  padding: 0 20px;
+}
+h1 {
+  text-align: center;
+  text-decoration: none;
+  color: #019267;
+  font-size: 30px;
+  font-family: monospace;
+}
+table {
+  text-align: center;
+  margin: 0px auto;
+  display: inline-block;
+}
+form {
+  background-color: white;
+  display: block;
+  font-style: italic;
+  font-weight: 300px;
+  border-style: solid;
+  line-height: 15px;
+  margin: 10px 120px;
+  width: 300px;
+}
+input[type="button"] {
+  color: black;
+  background-color: white;
+  padding: 5px;
+}
+input[type="button"]:hover {
+  background-color: yellow;
+  border: solid;
+}
+p {
+  text-align: center;
+}
+video {
+  padding: 10px auto;
+  margin: 0 auto;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+}
+.follow {
+  padding-bottom: 50px;
+}
